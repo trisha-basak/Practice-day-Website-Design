@@ -1,0 +1,104 @@
+.logo-coma{
+    color: red;
+}
+.logo{
+    font-weight: bold;
+}
+
+.nav-link{
+  color: #000!important;
+  font-weight:500!important;
+}
+.active{
+  color:red!important;
+}
+
+/* body section */
+
+.carousel-caption.slide-label{
+    width: 500px;
+    border-radius: 15px;
+    right: 0;
+    bottom: 0;
+    left: auto;
+    text-align: left;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    padding-left: 15px;
+    background-color: #000;
+}
+
+.slide-label{
+    width: 500px;
+    border-radius: 15px;
+    right: 0;
+    bottom: 0;
+    left: auto;
+    text-align: left;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    padding-left: 15px;
+    background-color: #000;
+}
+
+.carousel-caption.section2-card{
+
+    text-align: left;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.btn-card{
+    background-color: red;
+}
+
+.btn.card-btn{
+  background-color: red;
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: large;
+  font-style: normal;
+}
+.card-img-overlay.card-info{
+  padding-top: 150px;
+  padding-left: 40px;
+  width: 500px;
+  height: 60px;
+  
+}
+.card-img-overlay.card-info-3{
+  padding-top: 140px;
+  padding-left: 40px;
+  width: 500px;
+  height: 60px;
+  
+}
+
+.section3-img{
+  width: 350px;
+}
+
+
+.card.cart-product{
+  border-radius: 20px;
+}
+.card-title.modify-card-title{
+  font-weight: bold;
+  font-family: "Rubik", sans-serif;
+  font-size: medium;
+}
+.btn.modify-card-btn{
+  background-color: red;
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: large;
+  font-style: normal;
+  padding-left: 30%;
+  padding-right: 30%;
+  border-radius: 10px;
+}
+
+
+.social-text{
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
